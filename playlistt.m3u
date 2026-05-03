@@ -1,27 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="465150" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News
-http://xxip9.top:8080/live/2CuG4V/032949/22990.m3u8
-#EXTINF:-1 tvg-id="465150" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="News",ABC News
-http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/15956.m3u8
-#EXTINF:-1 tvg-id="468249" tvg-name="ABC 16 Jackson (WAPT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/WAPT2022logo.png" group-title="News",ABC 16 Jackson (WAPT)
+#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" tvg-name="ABC 16 Jackson (WAPT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/WAPT2022logo.png" group-title="News",ABC 16 Jackson (WAPT)
 http://xxip9.top:8080/live/2CuG4V/032949/135293.m3u8
-#EXTINF:-1 tvg-id="470185" tvg-name="ABC 7 Los Angeles (KABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/WABC_TV_New_2021.svg" group-title="News",ABC 7 Los Angeles (KABC)
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="ABC 7 Los Angeles (KABC)" tvg-logo="https://cdn.abcotvs.com/dip/images/18621286_KGO-ABC7-2026-500X300.png" group-title="News",ABC 7 Los Angeles (KABC)
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/49267.m3u8
-#EXTINF:-1 tvg-id="468875" tvg-name="ABC 9 Tupelo (WTVA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/WTVA_NBC_9_Tupelo%2C_Mississippi_Logo.svg" group-title="News",ABC 9 Tupelo (WTVA)
+#EXTINF:-1 tvg-id="WTVA-DT.us_locals1" tvg-name="ABC 9 Tupelo (WTVA)" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/6/69/WGOL_Logo_%282018-Present%2C_2021_Version%29.png" group-title="News",ABC 9 Tupelo (WTVA)
 http://xxip9.top:8080/live/2CuG4V/032949/173099.m3u8
-#EXTINF:-1 tvg-id="465150" tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="News",ABC News
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png" group-title="News",ABC News
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/15967.m3u8
-#EXTINF:-1 tvg-id="465025" tvg-name="BBC America" tvg-logo="https://cdn.brandfetch.io/idvHWowbS8/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="News",BBC America
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="https://cdn.brandfetch.io/idvHWowbS8/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="News",BBC America
 http://xxip9.top:8080/live/2CuG4V/032949/20194.m3u8
-#EXTINF:-1 tvg-id="486800" tvg-name="BBC News" tvg-logo="https://cdn.brandfetch.io/idNQsCsD6X/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="News",BBC News
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News" tvg-logo="https://cdn.brandfetch.io/idNQsCsD6X/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="News",BBC News
 http://xxip9.top:8080/live/2CuG4V/032949/53757.m3u8
-#EXTINF:-1 tvg-id="12246" tvg-name="BBC One" tvg-logo="https://cdn.brandfetch.io/idNQsCsD6X/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="News",BBC One
-http://xxip9.top:8080/live/2CuG4V/032949/53649.m3u8
-#EXTINF:-1 tvg-id="12499" tvg-name="BBC Two" tvg-logo="https://cdn.brandfetch.io/idNQsCsD6X/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="News",BBC Two
-http://xxip9.top:8080/live/2CuG4V/032949/53650.m3u8
-#EXTINF:-1 tvg-id="465073" tvg-name="Big Ten Network" tvg-logo="https://cdn.brandfetch.io/id0cWGhSdx/id_y9BZXgb.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Sports",Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://cdn.brandfetch.io/id0cWGhSdx/id_y9BZXgb.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Sports",Big Ten Network
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/23355.m3u8
-#EXTINF:-1 tvg-id="470760" tvg-name="CBC News" tvg-logo="https://i.cbc.ca/ais/1.4066392,1760127588530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B" group-title="News",CBC News
+#EXTINF:-1 tvg-id="CBC.News.Network.ca2" tvg-name="CBC News" tvg-logo="https://i.cbc.ca/ais/1.4066392,1760127588530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B" group-title="News",CBC News
 http://xxip9.top:8080/live/2CuG4V/032949/57304.m3u8
 #EXTINF:-1 tvg-id="470384" tvg-name="CBC Vancouver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQor9nLAN4nVS4WFu0H0lTBftNo4cqcAVyz7w&s" group-title="News",CBC Vancouver
 http://xxip9.top:8080/live/2CuG4V/032949/57391.m3u8
