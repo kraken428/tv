@@ -191,3 +191,82 @@ http://xxip9.top:8080/live/2CuG4V/032949/16130.m3u8
 http://xxip9.top:8080/live/2CuG4V/032949/57467.m3u8
 #EXTINF:-1 tvg-id="470513" tvg-name="TSN 5" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2013/05/tsn.png" group-title="Sports",TSN 5
 http://xxip9.top:8080/live/2CuG4V/032949/16131.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: Sky Sports 1 4K/UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="UK-SPORTS",UK-S: Sky Sports 1 4K/UHD
+http://wp.strmz.cc:80/Julian/Julian/2192440.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: Sky Sports 2 4k/UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="UK-SPORTS",UK-S: Sky Sports 2 4k/UHD
+http://wp.strmz.cc:80/Julian/Julian/2192441.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS ACTION HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS ACTION HD
+http://wp.strmz.cc:80/Julian/Julian/1000733.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS CRICKET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS CRICKET
+http://wp.strmz.cc:80/Julian/Julian/1000731.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS CRICKET HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS CRICKET HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183143.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: Sky Sports F1 4K/UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: Sky Sports F1 4K/UHD
+http://wp.strmz.cc:80/Julian/Julian/2192442.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS F1 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS F1 HD
+http://wp.strmz.cc:80/Julian/Julian/1000730.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS F1 HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS F1 HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183144.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS FOOTBALL HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-football-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS FOOTBALL HD
+http://wp.strmz.cc:80/Julian/Julian/1000729.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS FOOTBALL HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-football-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS FOOTBALL HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183145.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS GOLF" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-golf-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS GOLF
+http://wp.strmz.cc:80/Julian/Julian/1000728.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS GOLF HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-golf-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS GOLF HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183146.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS MAIN EVENT 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS MAIN EVENT 4K
+http://wp.strmz.cc:80/Julian/Julian/2192439.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS MAIN EVENT HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS MAIN EVENT HD
+http://wp.strmz.cc:80/Julian/Julian/1000727.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS MAIN EVENT HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS MAIN EVENT HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183147.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS MIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-mix-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS MIX
+http://wp.strmz.cc:80/Julian/Julian/1000724.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS MIX HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-mix-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS MIX HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183148.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS NEWS HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-news-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS NEWS HD
+http://wp.strmz.cc:80/Julian/Julian/1000723.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS NEWS HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-news-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS NEWS HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183149.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS NFL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-nfl-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS NFL
+http://wp.strmz.cc:80/Julian/Julian/2180487.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS NFL HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-nfl-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS NFL HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183150.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS PREMIER LEAGUE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-premier-league-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS PREMIER LEAGUE
+http://wp.strmz.cc:80/Julian/Julian/1000725.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS PREMIER LEAGUE HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-premier-league-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS PREMIER LEAGUE HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183151.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS RACING" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-racing-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS RACING
+http://wp.strmz.cc:80/Julian/Julian/1000937.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS RACING HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-racing-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS RACING HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183152.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS TENNIS HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-tennis-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS TENNIS HD
+http://wp.strmz.cc:80/Julian/Julian/2188941.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS TENNIS SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-tennis-hd-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS TENNIS SD
+http://wp.strmz.cc:80/Julian/Julian/2188942.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS+ HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS+ HD
+http://wp.strmz.cc:80/Julian/Julian/1000732.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: SKY SPORTS+ HEVC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="UK-SPORTS",UK-S: SKY SPORTS+ HEVC
+http://wp.strmz.cc:80/Julian/Julian/2183142.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 3 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 3 HD
+http://wp.strmz.cc:80/Julian/Julian/1000898.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 1 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 1 HD
+http://wp.strmz.cc:80/Julian/Julian/1000900.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 2 HD
+http://wp.strmz.cc:80/Julian/Julian/1000899.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 4 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 4 HD
+http://wp.strmz.cc:80/Julian/Julian/1000907.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 5 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 5 HD
+http://wp.strmz.cc:80/Julian/Julian/1153887.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 6 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-6-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 6 HD
+http://wp.strmz.cc:80/Julian/Julian/1153888.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 7 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-7-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 7 HD
+http://wp.strmz.cc:80/Julian/Julian/1153889.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS 8 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-8-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS 8 HD
+http://wp.strmz.cc:80/Julian/Julian/1153890.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS BOX OFFICE HD (LIVE WHEN EVENT IS IN SESSION)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-box-office-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS BOX OFFICE HD (LIVE WHEN EVENT IS IN SESSION)
+http://wp.strmz.cc:80/Julian/Julian/2187413.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S: TNT SPORTS ULTIMATE 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="UK-SPORTS",UK-S: TNT SPORTS ULTIMATE 4K
+http://wp.strmz.cc:80/Julian/Julian/2192708.ts
