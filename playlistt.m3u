@@ -37,18 +37,14 @@ http://xxip9.top:8080/live/2CuG4V/032949/1817.m3u8
 http://xxip9.top:8080/live/2CuG4V/032949/104884.m3u8
 #EXTINF:-1 tvg-id="464857" tvg-name="CNN" tvg-logo="https://www.riminstitute.com/wp-content/uploads/2017/02/cnn-logo-white.png" group-title="News",CNN
 http://xxip9.top:8080/live/2CuG4V/032949/57398.m3u8
-#EXTINF:-1 tvg-id="465211" tvg-name="Cooking Channel" tvg-logo="https://p7.hiclipart.com/preview/741/255/699/cooking-channel-food-network-television-channel-television-show-others.jpg" group-title="Entertainment",Cooking Channel
+#EXTINF:-1 tvg-id="465211" tvg-name="Cooking Channel" tvg-logo="https://www.foodserviceandhospitality.com/wp-content/uploads/2016/10/Cooking-Channel-Logo.jpg" group-title="Entertainment",Cooking Channel
 http://xxip9.top:8080/live/2CuG4V/032949/107960.m3u8
-#EXTINF:-1 tvg-id="465211" tvg-name="Cooking Channel" tvg-logo="https://cms-media.clink.services/CookingChannel-Default-Color_2x_vioh4r.png" group-title="Entertainment",Cooking Channel
+#EXTINF:-1 tvg-id="465211" tvg-name="Cooking Channel" tvg-logo="https://www.foodserviceandhospitality.com/wp-content/uploads/2016/10/Cooking-Channel-Logo.jpg" group-title="Entertainment",Cooking Channel
 http://xxip9.top:8080/live/2CuG4V/032949/9229.m3u8
 #EXTINF:-1 tvg-id="470326" tvg-name="CTV News" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV_Logo_Screen_RGB-2-1.png" group-title="News",CTV News
 http://xxip9.top:8080/live/2CuG4V/032949/57350.m3u8
 #EXTINF:-1 tvg-id="470456" tvg-name="CTV Vancouver" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV_Logo_Screen_RGB-2-1.png" group-title="News",CTV Vancouver
 http://xxip9.top:8080/live/2CuG4V/032949/57316.m3u8
-#EXTINF:-1 tvg-id="464832" tvg-name="E!" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/entertainment-television-logo-black-and-white.png" group-title="Entertainment",E!
-http://xxip9.top:8080/live/2CuG4V/032949/57422.m3u8
-#EXTINF:-1 tvg-id="470431" tvg-name="E! Canada" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/entertainment-television-logo-black-and-white.png" group-title="Entertainment",E! Canada
-http://xxip9.top:8080/live/2CuG4V/032949/57249.m3u8
 #EXTINF:-1 tvg-id="406812" tvg-name="ESPN 1" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg?w=1000&h=495&crop=1" group-title="Sports",ESPN 1
 http://xxip9.top:8080/live/2CuG4V/032949/14197.m3u8
 #EXTINF:-1 tvg-id="406812" tvg-name="ESPN 1" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg?w=1000&h=495&crop=1" group-title="Sports",ESPN 1
@@ -65,27 +61,27 @@ http://xxip9.top:8080/live/2CuG4V/032949/10255.m3u8
 http://xxip9.top:8080/live/2CuG4V/032949/57247.m3u8
 #EXTINF:-1 tvg-id="464984" tvg-name="Food Network" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Symbol.png" group-title="Entertainment",Food Network
 http://xxip9.top:8080/live/2CuG4V/032949/7323.m3u8
-#EXTINF:-1 tvg-id="466724" tvg-name="FOX 11 Los Angeles (KTTV)" tvg-logo="https://p1.hiclipart.com/preview/288/271/777/tv-channel-icons-pack-fox-news-white-png-icon.jpg" group-title="News",FOX 11 Los Angeles (KTTV)
+#EXTINF:-1 tvg-id="466724" tvg-name="FOX 11 Los Angeles (KTTV)" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="News",FOX 11 Los Angeles (KTTV)
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/49282.m3u8
-#EXTINF:-1 tvg-id="467888" tvg-name="FOX 13 Los Angeles (KCOP)" tvg-logo="https://p1.hiclipart.com/preview/288/271/777/tv-channel-icons-pack-fox-news-white-png-icon.jpg" group-title="News",FOX 13 Los Angeles (KCOP)
+#EXTINF:-1 tvg-id="467888" tvg-name="FOX 13 Los Angeles (KCOP)" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="News",FOX 13 Los Angeles (KCOP)
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/49271.m3u8
-#EXTINF:-1 tvg-id="401242" tvg-name="FOX NEWS" tvg-logo="https://p1.hiclipart.com/preview/288/271/777/tv-channel-icons-pack-fox-news-white-png-icon.jpg" group-title="News",FOX NEWS
+#EXTINF:-1 tvg-id="401242" tvg-name="FOX NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="News",FOX NEWS
 http://xxip9.top:8080/live/2CuG4V/032949/47281.m3u8
-#EXTINF:-1 tvg-id="401242" tvg-name="FOX News" tvg-logo="https://p1.hiclipart.com/preview/288/271/777/tv-channel-icons-pack-fox-news-white-png-icon.jpg" group-title="News",FOX News
+#EXTINF:-1 tvg-id="401242" tvg-name="FOX News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="News",FOX News
 http://xxip9.top:8080/live/2CuG4V/032949/125115.m3u8
-#EXTINF:-1 tvg-id="401242" tvg-name="Fox News" tvg-logo="https://p1.hiclipart.com/preview/288/271/777/tv-channel-icons-pack-fox-news-white-png-icon.jpg" group-title="News",Fox News
+#EXTINF:-1 tvg-id="401242" tvg-name="Fox News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="News",Fox News
 http://xxip9.top:8080/live/2CuG4V/032949/135794.m3u8
-#EXTINF:-1 tvg-id="401242" tvg-name="Fox News" tvg-logo="https://p1.hiclipart.com/preview/288/271/777/tv-channel-icons-pack-fox-news-white-png-icon.jpg" group-title="News",Fox News
+#EXTINF:-1 tvg-id="401242" tvg-name="Fox News" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="News",Fox News
 http://xxip9.top:8080/live/2CuG4V/032949/1818.m3u8
 #EXTINF:-1 tvg-id="465291" tvg-name="Fox Sports 1" tvg-logo="https://variety.com/wp-content/uploads/2023/08/Fox-Sports.png?w=1000&h=563&crop=1" group-title="News",Fox Sports 1
 http://xxip9.top:8080/live/2CuG4V/032949/1846.m3u8
 #EXTINF:-1 tvg-id="465355" tvg-name="Fox Sports 2" tvg-logo="https://variety.com/wp-content/uploads/2023/08/Fox-Sports.png" group-title="News",Fox Sports 2
 http://xxip9.top:8080/live/2CuG4V/032949/1847.m3u8
-#EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/golf-channel-logo.png" group-title="Sports",Golf Channel
+#EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/golfchannelfr/logos/channels-logo-white._CB567741584_.png" group-title="Sports",Golf Channel
 http://xxip9.top:8080/live/2CuG4V/032949/57362.m3u8
-#EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/golf-channel-logo.png" group-title="Sports",Golf Channel
+#EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/golfchannelfr/logos/channels-logo-white._CB567741584_.png" group-title="Sports",Golf Channel
 http://xxip9.top:8080/live/2CuG4V/032949/9806.m3u8
-#EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/golf-channel-logo.png" group-title="Sports",Golf Channel
+#EXTINF:-1 tvg-id="464783" tvg-name="Golf Channel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/golfchannelfr/logos/channels-logo-white._CB567741584_.png" group-title="Sports",Golf Channel
 http://xxip9.top:8080/live/2CuG4V/032949/46728.m3u8
 #EXTINF:-1 tvg-id="467246" tvg-name="KTLA 5 Los Angeles" tvg-logo="https://yt3.googleusercontent.com/6gDR5yI9WkBQoRtITktRsZRkLl8Jb0Iq13X93_t6nabx_xVtGhgzXcgB4hUP6QHUOmwehmQm=s900-c-k-c0x00ffffff-no-rj" group-title="News",KTLA 5 Los Angeles
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/49270.m3u8
@@ -97,29 +93,29 @@ http://xxip9.top:8080/live/2CuG4V/032949/20073.m3u8
 http://xxip9.top:8080/live/2CuG4V/032949/120697.m3u8
 #EXTINF:-1 tvg-id="469871" tvg-name="NBC 4 Los Angeles (KNBC)" tvg-logo="https://cdn.prod.website-files.com/6499c0521a107bd4e033701d/6499da3b06097b0e9e0d62c8_KNBC_(2011_-_Flat).svg.png" group-title="News",NBC 4 Los Angeles (KNBC)
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/49272.m3u8
-#EXTINF:-1 tvg-id="465163" tvg-name="NBC Sports Bay Area" tvg-logo="https://together.nbcuni.com/wp-content/uploads/sites/3/2025/10/NBC-SPORTSv2.jpg" group-title="Sports",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="465163" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.pngkey.com/png/full/142-1421533_nbc-sports-logo-png-image-transparent-nbc-sports.png" group-title="Sports",NBC Sports Bay Area
 http://xxip9.top:8080/live/2CuG4V/032949/9900.m3u8
-#EXTINF:-1 tvg-id="464910" tvg-name="NBC Sports Boston" tvg-logo="https://together.nbcuni.com/wp-content/uploads/sites/3/2025/10/NBC-SPORTSv2.jpg" group-title="Sports",NBC Sports Boston
+#EXTINF:-1 tvg-id="464910" tvg-name="NBC Sports Boston" tvg-logo="https://www.pngkey.com/png/full/142-1421533_nbc-sports-logo-png-image-transparent-nbc-sports.png" group-title="Sports",NBC Sports Boston
 http://xxip9.top:8080/live/2CuG4V/032949/20939.m3u8
-#EXTINF:-1 tvg-id="465054" tvg-name="NBC Sports California" tvg-logo="https://together.nbcuni.com/wp-content/uploads/sites/3/2025/10/NBC-SPORTSv2.jpg" group-title="Sports",NBC Sports California
+#EXTINF:-1 tvg-id="465054" tvg-name="NBC Sports California" tvg-logo="https://www.pngkey.com/png/full/142-1421533_nbc-sports-logo-png-image-transparent-nbc-sports.png" group-title="Sports",NBC Sports California
 http://xxip9.top:8080/live/2CuG4V/032949/20940.m3u8
-#EXTINF:-1 tvg-id="465037" tvg-name="NBC Sports Philly" tvg-logo="https://together.nbcuni.com/wp-content/uploads/sites/3/2025/10/NBC-SPORTSv2.jpg" group-title="Sports",NBC Sports Philly
+#EXTINF:-1 tvg-id="465037" tvg-name="NBC Sports Philly" tvg-logo="https://www.pngkey.com/png/full/142-1421533_nbc-sports-logo-png-image-transparent-nbc-sports.png" group-title="Sports",NBC Sports Philly
 http://xxip9.top:8080/live/2CuG4V/032949/20943.m3u8
-#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/12/nfl-network-logo-2021-e1670952379254.jpg" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NFL-Logo.png" group-title="Sports",NFL Network
 http://xxip9.top:8080/live/2CuG4V/032949/208896.m3u8
-#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/12/nfl-network-logo-2021-e1670952379254.jpg" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NFL-Logo.png" group-title="Sports",NFL Network
 http://xxip9.top:8080/live/2CuG4V/032949/47346.m3u8
 #EXTINF:-1 tvg-id="407568" tvg-name="NHL Network" tvg-logo="https://media.nhl.com/site/asset/public/images/2024/12/NHLNetworkLarge-28021741_Media-20014613.png" group-title="Sports",NHL Network
 http://xxip9.top:8080/live/2CuG4V/032949/253636.m3u8
 #EXTINF:-1 tvg-id="407568" tvg-name="NHL Network" tvg-logo="https://media.nhl.com/site/asset/public/images/2024/12/NHLNetworkLarge-28021741_Media-20014613.png" group-title="Sports",NHL Network
 http://zorrohunter.com:8080/live/YzadFS4vHZ/8717025771/15941.m3u8
-#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="Https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
 http://xxip9.top:8080/live/2CuG4V/032949/57299.m3u8
-#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="Https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
 http://xxip9.top:8080/live/2CuG4V/032949/2219.m3u8
-#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="Https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
 http://zorrohunter.com:8080/live/television3/3067565002/40618.m3u8
-#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="Https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
 http://zorrohunter.com:8080/live/Nrobledo917/1705854493/40618.m3u8
 #EXTINF:-1 tvg-id="470392" tvg-name="Sportsnet 360" tvg-logo="Https://kraken428.github.io/tv/sn360.png" group-title="Sports",Sportsnet 360
 http://zorrohunter.com:8080/live/Everocadd3/5493154841/40618.m3u8
