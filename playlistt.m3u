@@ -195,10 +195,8 @@ http://xxip9.top:8080/live/2CuG4V/032949/16131.m3u8
 http://wp.strmz.cc:80/Julian/Julian/2192440.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 4k/UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/Sky-sport/Sky-sport-2-de.png?raw=true" group-title="UK Sports",Sky Sports 2 4k/UHD
 http://wp.strmz.cc:80/Julian/Julian/2192441.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports ACTION HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/Sky-Sports-action-uk.png?raw=true" group-title="UK Sports",Sky Sports ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/Sky-Sports-action-uk.png?raw=true" group-title="UK Sports",Sky Sports ACTION HD
 http://wp.strmz.cc:80/Julian/Julian/1000733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports CRICKET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/Sky-Sports-cricket-uk.png?raw=true" group-title="UK Sports",Sky Sports CRICKET
-http://wp.strmz.cc:80/Julian/Julian/1000731.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 4K/UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/Sky-Sports-f1-uhd-uk.png?raw=true" group-title="UK Sports",Sky Sports F1 4K/UHD
 http://wp.strmz.cc:80/Julian/Julian/2192442.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/Sky-Sports-f1-hd-uk.png?raw=true" group-title="UK Sports",Sky Sports F1 HD
